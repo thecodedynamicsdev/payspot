@@ -1,39 +1,42 @@
-**PRIVACY POLICY**
+# PRIVACY POLICY
 
-•	We, CODE DYNAMICS LLP ("We", "Us", "Our", “Company”), respect the privacy of everyone who visits this website, uses the desktop application and/or uses our mobile/tablet applications (the website, desktop application and the mobile applications (Payspot Tablet, Payspot) are collectively called, the “PAYSPOT APP”). The Company has created the PAYSPOT APP and licensed the use of the same, as part of its business operations. The services are rendered by the Company through the PAYSPOT APP.
-•	We are highly committed to the privacy of your data and information and in providing services to all the subscribers / users of the PAYSPOT APP. As a result, we would like to inform you regarding the way we would collect, process, store and use your personal data. We recommend you to read this privacy policy (hereinafter referred to as “Policy”) so that you understand our approach towards the use of your personal data. This Policy shall form part of the Terms of Services and any other additional Terms of Use issued by the Company with respect to the use of the Services in the PAYSPOT APP and is in compliance with applicable laws and regulations, including, but not limited to the Information Technology Act, 2000, as well as with the European Union General Data Protection Regulation (“GDPR”) standards.
-•	By submitting your Personal Information (as defined hereinafter) to us and indicating your agreement with this Privacy Policy, you (or anyone who accesses and uses the PAYSPOT APP shall be referred to as “You”, “Your” or “User” as the context may require) will be treated as having given their permission, wherever necessary and appropriate to our collection, use and disclosure of Personal Information and accept this Policy along with any amendments or modifications as may be made from time to time. If you do not wish to provide any Personal Information, you are not entitled to use any of the PAYSPOT APP or avail any of the services provided in the PAYSPOT APP (“Services”). This Privacy Policy is subject to our  general Terms of Services provided at the time of signing up. (“Terms”).
+•	We, **CODE DYNAMICS LLP** ("We", "Us", "Our", “Company”), respect the privacy of everyone who uses the Android tablet Application - **PAYSPOT TABLET**. The Company has created the **PAYSPOT TABLET** (herewith referred as 'APP') and licensed the use of the same, as part of its business operations. The services are rendered by the Company through the **PAYSPOT TABLET**.
 
-*Personal Information*
+•	We are highly committed to the privacy of your data and information and in providing services to all the subscribers / users of the **PAYSPOT TABLET**. As a result, we would like to inform you regarding the way we would collect, process, store and use your personal data. We recommend you to read this privacy policy (hereinafter referred to as “Policy”) so that you understand our approach towards the use of your personal data. This Policy shall form part of the Terms of Services and any other additional Terms of Use issued by the Company with respect to the use of the Services in the **PAYSPOT TABLET** and is in compliance with applicable laws and regulations, including, but not limited to the Information Technology Act, 2000, as well as with the European Union General Data Protection Regulation (“GDPR”) standards.
+
+•	By submitting your Personal Information (as defined hereinafter) to us and indicating your agreement with this Privacy Policy, you (or anyone who accesses and uses the **PAYSPOT TABLET** shall be referred to as “You”, “Your” or “User” as the context may require) will be treated as having given their permission, wherever necessary and appropriate to our collection, use and disclosure of Personal Information and accept this Policy along with any amendments or modifications as may be made from time to time. If you do not wish to provide any Personal Information, you are not entitled to use any of the **PAYSPOT TABLET** or avail any of the services provided in the **PAYSPOT TABLET** (“Services”). This Privacy Policy is subject to our  general Terms of Services provided at the time of signing up. (“Terms”).
+
+## Personal Information
 
 •	We limit the collection of personal data to only that which is absolutely necessary to carry out our legal or business obligations. In some cases however the provision of personal data may be partly required by law (e.g. tax regulations), is needed as part of or as a result of contractual negotiations, or as part of providing a service. The non-provision of the personal data would have the consequence that the contract or service with the data subject could not be provided or concluded, therefore is considered legitimate interest for processing.
-•	Any information that is collected from you during the process of registration and subscription of the Services available at the PAYSPOT APP, further during the course of accessing and using the Services available at the PAYSPOT APP, shall be referred to as Personal Information. Personal Information shall include, but not limited to:
+•	Any information that is collected from you during the process of registration and subscription of the Services available at the **PAYSPOT TABLET**, further during the course of accessing and using the Services available at the **PAYSPOT TABLET**, shall be referred to as Personal Information. Personal Information shall include, but not limited to:
 I.	Name/ Company Name/Firm Name
 II.	Email
-III.	Phone number
+III.Phone number
 IV.	Address
 V.	GST Number
-VI.	We also collect your billing information when you use our Services through our PAYSPOT APP.
-VII.	During the process of completing any customer survey, any information or reviews or comments mentioned by you.
-VIII.	Any sensitive personal data information as provided under the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 such as passwords, financial data, data identifying the gender of the person, etc.
+VI.	We also collect your billing information when you use our Services through our **PAYSPOT TABLET**.
+VII.During the process of completing any customer survey, any information or reviews or comments mentioned by you.
+VIII.Any sensitive personal data information as provided under the Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 such as passwords, financial data, data identifying the gender of the person, etc.
 IX.	We also obtain all information generated by you using the application.
-•	We also collect information relating to your usage of the PAYSPOT APP necessary for the purpose of providing you with the best possible service. 
-•	When you visit the app, we may collect certain non-personal information as well. We may collect additional information including, the type of device you use for accessing the Services, IP address of your device and any other information about the manner of usage of the PAYSPOT APP and access to the Services. We are entitled to collect the information relating to pattern of your use of the PAYSPOT APP.
-•	We use temporary and permanent cookies and we obtain certain types of information when you accesses the app or advertisements and other content served on the PAYSPOT APP to secure and enhance your overall experience of using our Services. These information may include, but not limited to your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. We use cookies primarily for authentication but may also use them to improve the quality of our Service by storing your preferences and tracking your usage trends.
-•	When you download or use our PAYSPOT APP for accessing the Services through your mobile, we may receive information about your location and your mobile device, including a unique identifier number for your device. We may use this information to provide you with Services if required. We use mobile analytics software to allow us to better understand the functionality of our app on your phone. This information may include, but not limited to, how often you use the PAYSPOT APP, the events that occur within the PAYSPOT APP, aggregated usage, performance data, and where the PAYSPOT APP was downloaded from. 
+•	We also collect information relating to your usage of the **PAYSPOT TABLET** necessary for the purpose of providing you with the best possible service. 
+•	When you visit the app, we may collect certain non-personal information as well. We may collect additional information including, the type of device you use for accessing the Services, IP address of your device and any other information about the manner of usage of the **PAYSPOT TABLET** and access to the Services. We are entitled to collect the information relating to pattern of your use of the **PAYSPOT TABLET**.
+•	We use temporary and permanent cookies and we obtain certain types of information when you accesses the app or advertisements and other content served on the **PAYSPOT TABLET** to secure and enhance your overall experience of using our Services. These information may include, but not limited to your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. We use cookies primarily for authentication but may also use them to improve the quality of our Service by storing your preferences and tracking your usage trends.
+•	When you download or use our **PAYSPOT TABLET** for accessing the Services through your mobile, we may seek permission to use your **Location Information**. Once given the permission to use your device location, Payspot Tablet collects location data to scan Bluetooth Printers nearby even when the app is closed or not in use.
+•	When you download or use our **PAYSPOT TABLET** for accessing the Services through your mobile, we may receive information about your location and your mobile device, including a unique identifier number for your device. We may use this information to provide you with Services if required. We use mobile analytics software to allow us to better understand the functionality of our app on your phone. This information may include, but not limited to, how often you use the **PAYSPOT TABLET**, the events that occur within the **PAYSPOT TABLET**, aggregated usage, performance data, and where the **PAYSPOT TABLET** was downloaded from. 
 •	When You send emails or other communications to Us, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
 •	We gather certain information and automatically and store it in log files. This information may include Internet Protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 •	Where the legal basis for Us processing Your personal data is that You have provided Your consent, You may withdraw Your consent at any time. You will not suffer any detriment for withdrawing consent. If You withdraw such consent, this will not make processing which We undertook before such withdrawal of your consent unlawful.
 •	You can withdraw Your consent by contacting the Data Protection Officer, details of whom are provided within this Privacy Policy. 
 
-*Rights of a Data Subject*
+**Rights of a Data Subject**
 
 •	Right to be informed: You have the right to be informed about what information is being collected.
 •	Right to rectification: You have the right to correct any inaccurate data, or complete any incomplete data. 
 •	Right to restrict processing: You have the right to request us to restrict the use of the data You have provided, but continue to retain it in our database.
 If You want to exercise any of the rights described above or are dissatisfied with the way we have used your information, please contact Our Data Protection Officer. We will seek to deal with your request without undue delay, and in any event in accordance with the requirements of the GDPR. Please note that We may keep a record of Your communications to help us resolve any issues which You raise.
 
-*Usage of Personal Information:*
+**Usage of Personal Information:**
 
 •	We use the Personal Information and all other information provided by you to process your request for Services and to provide you the Services.
 •	We may use the Personal Information for data analytics, either for you or for third parties.
@@ -42,55 +45,55 @@ If You want to exercise any of the rights described above or are dissatisfied wi
 •	We may use the Personal Information in any other manner that we may deem fit, in compliance to the applicable laws. We may also disclose Personal Information, in good faith, wherein the access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect us against imminent harm to our rights, property or safety, or as permitted by law or (e) in order to showcase the Company outreach and business portfolio, its scope and business volume to potential investors.
 •	If you sign up to receive email newsletters or promotional materials from us, we will use the information you give us to provide the communications you have requested. You can cancel email newsletters or promotional materials by selecting unsubscribe at the bottom of such communication. If you no longer wish to receive push notifications, you may turn them off at your device level.
 
-*Security of Your Personal Information*
+**Security of Your Personal Information**
 
 •	We endeavour to take appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access to your Personal Information and to maintain data security. These safeguards take into account the sensitivity of the Personal Information that we collect, process and store and the current state of technology. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it.
 •	We host our product in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. However, no method of transmission over the Internet or via mobile device, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
-•	We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control. You play an important role in keeping your Personal Information secure. You should not share your user name, password, or other security information with anyone. If we receive instructions using your user name and password, we will consider that you have authorized the instructions. You using the PAYSPOT APP and accessing the Services provided by the Company shall mean that you have agreed to the terms of this Policy and no such separate agreement is required from your end.
+•	We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorized third-party access, or other causes beyond our control. You play an important role in keeping your Personal Information secure. You should not share your user name, password, or other security information with anyone. If we receive instructions using your user name and password, we will consider that you have authorized the instructions. You using the **PAYSPOT TABLET** and accessing the Services provided by the Company shall mean that you have agreed to the terms of this Policy and no such separate agreement is required from your end.
 •	You acknowledge that we shall not be liable to you under any circumstances for any direct, indirect, punitive, incidental, special or consequential damages that result from or arise out of, or a breach or, or compromise of registration of your account with us and/or your ability or inability to use your account.
 
-*Retention of Personal Information*
+**Retention of Personal Information**
 
 •	Your personal data will not be kept for longer than is necessary to fulfil the specific purposes outlined in this Privacy Policy, and to allow Us to comply with relevant legal requirements.
 •	Any data We do hold onto will be anonymous. Any personally identifiable information such as Your name, address, date of birth and telephone number will be deleted after a period of 10 years from the termination of Services.
 •	The rest of the data is therefore anonymous and will be used to analyse general market and website trends but without an identifiable personal information.
 
-*Transfer of Data*
+**Transfer of Data**
 
 •	We may transfer to, and store the data we collect about you in, countries other than the country in which the data was originally collected, including Singapore. Those countries may not have the same data protection laws as the country in which you provided the data. When we transfer your data to other countries, we will protect the data as described in this Privacy Policy and comply with applicable legal requirements providing adequate protection for the transfer of data to countries outside the European Economic Area (“EEA”) and outside the United Kingdom.
 •	If you are located in the EEA or the United Kingdom, we will only transfer your personal data if:
 1.	the country to which the personal data will be transferred has been granted a European Commission adequacy decision; or
 2.	we have put in place appropriate safeguards in respect of the transfer, for example we have entered into EU standard contractual clauses and required additional safeguards with the recipient, or the recipient is a party to binding corporate rules approved by an EU or UK supervisory authority.
 
-*Transfer of information to Third Parties*
+**Transfer of information to Third Parties**
 
-•	You understand that the PAYSPOT APP not only provides Services directly from the Company, it also provides certain Services through API integration of certain third party service providers. 
-•	You agree and acknowledge that we shall appoint certain third party vendors and service providers to provide such services in the PAYSPOT APP or facilitate the provision of Services in the PAYSPOT APP. Whenever the PAYSPOT APP redirects you to the platforms / apps owned by such third party service providers, such third party service providers shall have access to your Personal Information, which may be recorded by such third party service providers as required under the applicable law. When you agree to use the PAYSPOT APP and subscribe to the Services provided by the Company through the PAYSPOT APP, you understand and acknowledge that there are third party vendors involved in the marketplace services and you agree to accept the privacy policy provided on the website or apps or platforms of such third party vendors. Further, we shall not have any access to such personal information recorded by the third party service providers and thus we shall not be held liable for any breach of confidentiality obligations by any third party service providers. We are not aware of the modus operandi of such third party vendors individually. It is your duty to study and understand the privacy terms of such third party sites.
+•	You understand that the **PAYSPOT TABLET** not only provides Services directly from the Company, it also provides certain Services through API integration of certain third party service providers. 
+•	You agree and acknowledge that we shall appoint certain third party vendors and service providers to provide such services in the **PAYSPOT TABLET** or facilitate the provision of Services in the **PAYSPOT TABLET**. Whenever the **PAYSPOT TABLET** redirects you to the platforms / apps owned by such third party service providers, such third party service providers shall have access to your Personal Information, which may be recorded by such third party service providers as required under the applicable law. When you agree to use the **PAYSPOT TABLET** and subscribe to the Services provided by the Company through the **PAYSPOT TABLET**, you understand and acknowledge that there are third party vendors involved in the marketplace services and you agree to accept the privacy policy provided on the website or apps or platforms of such third party vendors. Further, we shall not have any access to such personal information recorded by the third party service providers and thus we shall not be held liable for any breach of confidentiality obligations by any third party service providers. We are not aware of the modus operandi of such third party vendors individually. It is your duty to study and understand the privacy terms of such third party sites.
 •	The types of third parties we may share elements of your personal data with include, but are not limited to:
 1.	payment processors engaged by Us to securely store or handle payments information, such as credit or debit card details, required for facilitating the delivery of Services;
 2.	providers of data aggregation and analytics software services that enable us to effectively monitor and optimise the delivery of our services;
 3.	providers of software platforms that assist Us in communicating or providing customer support services to You - for example, We manage and respond to any messages You send to Us via Our help centre using a third party communications management tool;
 4.	providers of online cloud storage services and other essential IT support services.
 
-*Third Party links*
+**Third Party links**
 
 •	The Services may also contain links to third-party websites. Your use of these features may result in the collection, processing or sharing of information about you, depending on the feature. Please be aware that we are not responsible for the content or privacy practices of other websites or services which may be linked on our services.
 •	We do not endorse or make any representations about third-party websites or services.
 •	Our Privacy Policy does not cover the information you choose to provide to or that is collected by these third parties.
 •	We strongly encourage you to read such third parties’ privacy policies
-•	Such third party service providers may use cookies and those cookies may collect certain information and may be stored on your device when you visit our app or any other PAYSPOT APP.
+•	Such third party service providers may use cookies and those cookies may collect certain information and may be stored on your device when you visit our app or any other **PAYSPOT TABLET**.
 
-*Updating, Modifying and Deletion of Information*
+**Updating, Modifying and Deletion of Information**
 
-•	You can update or modify or delete your Personal Information that is provided by you at the time of registration on our PAYSPOT APP by accessing your account in such platforms.
+•	You can update or modify or delete your Personal Information that is provided by you at the time of registration on our **PAYSPOT TABLET** by accessing your account in such platforms.
 •	To delete your account, You can email us at legal@payspot.app. 
 •	Upon cancellation or termination of your account/subscription, we reserve the right to retain Personal Information as may be required to comply with legal obligations or our business model for a limited period, until such time we have the necessity to store your Personal Information.
 
-*Changes to Privacy Policy*
+**Changes to Privacy Policy**
 
-•	We reserve the right to amend or revise this Privacy Policy from time to time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. Please check this page periodically for such revisions and amendments. Any changes to this Privacy Policy, shall be posted in this same URL. It is your obligation as the user of the PAYSPOT APP to review the changes carefully. Your continued use of the Services and access of the PAYSPOT APP following the posting of changes to this Privacy Policy shall constitute your consent and acceptance of those changes.
+•	We reserve the right to amend or revise this Privacy Policy from time to time to reflect changes in the law, our data collection and use practices, the features of our Services, or advances in technology. Please check this page periodically for such revisions and amendments. Any changes to this Privacy Policy, shall be posted in this same URL. It is your obligation as the user of the **PAYSPOT TABLET** to review the changes carefully. Your continued use of the Services and access of the **PAYSPOT TABLET** following the posting of changes to this Privacy Policy shall constitute your consent and acceptance of those changes.
 
-*Governing Law:*
+**Governing Law:**
 
 •	This Privacy Policy shall be governed by the laws of India and courts in Cochin, Kerala, shall have exclusive jurisdiction over any matter arising out of this Privacy Policy
 •	Grievance Redressal
